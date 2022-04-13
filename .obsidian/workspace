@@ -11,7 +11,7 @@
           "state": {
             "file": "README.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -90,6 +90,13 @@
   "active": "e3ee2301c559a42c",
   "lastOpenFiles": [
     "README.md",
-    "AspNetCoreNote/Run on iis.md"
+    "AspNetCoreNote/vscode/ctrl ..md",
+    "AspNetCoreNote/vscode/powershell.md",
+    "AspNetCoreNote/Run on iis.md",
+    "sqlserver/可以1次安裝sqlserver dev 與 express.md",
+    "lilin/RTSP 是什麼.md",
+    "lilin/第2份文件.md",
+    "lilin/第1份連結.md",
+    "_attach/test1.png"
   ]
 }

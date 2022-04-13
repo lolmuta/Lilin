@@ -1,3 +1,7 @@
 # how to run on iis
-- just test
-	![[test1.png]]
+- 安裝 hosting bundle for windows
+- 安裝 net core Sdk
+	```batch
+	dotnet publish -c release 
+	```
+- 
